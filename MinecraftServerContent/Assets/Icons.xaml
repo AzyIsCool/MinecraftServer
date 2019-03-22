@@ -1,0 +1,1015 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Geometry x:Key="iconGeometry1">F1 M1000,1000z M0,0z M805.61,74.64L522.7,74.64C501.7,73.03,491.26,84.31,491.26,84.31L448.41,133.75A17.44,17.44,0,0,1,456.17,131.87L760,131.87A17.68,17.68,0,0,1,777.64,149.53L777.12,745.23C777.12,752.67,774.52,770.23,766.9,777.98L764.23,780.7 825,694.47C844.35,665.47,843.56,637.24,843.56,637.24L843.56,106.07C843.56,77.07,805.66,74.64,805.66,74.64z</Geometry>
+  <Geometry x:Key="iconGeometry2">F1 M1000,1000z M0,0z M777.13,743.05L777.65,149.53A17.68,17.68,0,0,0,760,131.87L456.16,131.87A17.39,17.39,0,0,0,448.4,133.75A17.65,17.65,0,0,0,438.51,149.53L438.51,634 777.65,634 777.65,750.58 438.52,750.58 438.52,764.25A17.68,17.68,0,0,0,456.17,781.91L760,781.91C762.25,781.91 764.6,780.34 766.9,778 774.51,770.25 777.12,750.54 777.12,743z M502.13,492.21A8.84,8.84,0,1,1,510.97,483.38A8.83,8.83,0,0,1,502.11,492.21z M572.78,492.21A8.7,8.7,0,1,1,581.62,483.37A8.88,8.88,0,0,1,572.76,492.21z M643.43,492.21A8.7,8.7,0,1,1,652.28,483.37A8.88,8.88,0,0,1,643.41,492.21z M714.1,492.21A8.83,8.83,0,1,1,722.92,483.37A8.82,8.82,0,0,1,714.1,492.21z M749.4,445.38A8.84,8.84,0,0,1,740.58,454.22L475.58,454.22A8.87,8.87,0,0,1,466.75,445.38L466.75,145.11A8.84,8.84,0,0,1,475.58,136.28L740.58,136.28A8.85,8.85,0,0,1,749.39,145.11L749.39,445.38z</Geometry>
+  <Geometry x:Key="iconGeometry3">F1 M1000,1000z M0,0z M438.52,634L777.11,634 777.11,750.58 438.52,750.58z</Geometry>
+  <Geometry x:Key="iconGeometry4">F1 M1000,1000z M0,0z M740.56,136.28L475.56,136.28A8.84,8.84,0,0,0,466.73,145.11L466.73,445.38A8.86,8.86,0,0,0,475.56,454.22L740.56,454.22A8.83,8.83,0,0,0,749.37,445.38L749.37,145.11A8.84,8.84,0,0,0,740.56,136.28z M722.7,417.14A8.85,8.85,0,0,1,713.87,425.96L502.3,425.96A8.82,8.82,0,0,1,493.48,417.14L493.48,387.14A8.82,8.82,0,0,1,502.3,378.31L713.87,378.31A8.83,8.83,0,0,1,722.7,387.14z M722.7,346.48A8.85,8.85,0,0,1,713.87,355.29L502.3,355.29A8.82,8.82,0,0,1,493.48,346.48L493.48,316.48A8.84,8.84,0,0,1,502.3,307.65L713.87,307.65A8.84,8.84,0,0,1,722.7,316.48z M722.7,275.82A8.85,8.85,0,0,1,713.87,284.65L502.3,284.65A8.82,8.82,0,0,1,493.48,275.82L493.48,245.82A8.82,8.82,0,0,1,502.3,237L713.87,237A8.83,8.83,0,0,1,722.7,245.81z M722.7,205.17A8.86,8.86,0,0,1,713.87,214L502.3,214A8.84,8.84,0,0,1,493.48,205.17L493.48,175.17A8.83,8.83,0,0,1,502.3,166.35L713.87,166.35A8.83,8.83,0,0,1,722.7,175.17z</Geometry>
+  <Geometry x:Key="iconGeometry5">F1 M1000,1000z M0,0z M713.87,166.31L502.3,166.31A8.83,8.83,0,0,0,493.48,175.14L493.48,205.14A8.84,8.84,0,0,0,502.3,214L713.87,214A8.86,8.86,0,0,0,722.7,205.17L722.7,175.17A8.84,8.84,0,0,0,713.87,166.31z M713.87,236.98L502.3,236.98A8.8,8.8,0,0,0,493.48,245.78L493.48,275.78A8.82,8.82,0,0,0,502.3,284.6L713.87,284.6A8.84,8.84,0,0,0,722.7,275.78L722.7,245.78A8.83,8.83,0,0,0,713.87,237z M713.87,307.62L502.3,307.62A8.84,8.84,0,0,0,493.48,316.45L493.48,346.45A8.83,8.83,0,0,0,502.3,355.26L713.87,355.26A8.85,8.85,0,0,0,722.7,346.45L722.7,316.45A8.84,8.84,0,0,0,713.87,307.62z M713.87,378.28L502.3,378.28A8.83,8.83,0,0,0,493.48,387.11L493.48,417.11A8.83,8.83,0,0,0,502.3,426L713.87,426A8.85,8.85,0,0,0,722.7,417.18L722.7,387.18A8.83,8.83,0,0,0,713.87,378.28z</Geometry>
+  <Geometry x:Key="iconGeometry6">F1 M1000,1000z M0,0z M502.11,474.55A8.83,8.83,0,1,0,502.11,492.21L502.11,492.21A8.83,8.83,0,0,0,502.11,474.55z</Geometry>
+  <Geometry x:Key="iconGeometry7">F1 M1000,1000z M0,0z M572.76,474.55A8.83,8.83,0,1,0,581.6,483.37A8.85,8.85,0,0,0,572.76,474.55z</Geometry>
+  <Geometry x:Key="iconGeometry8">F1 M1000,1000z M0,0z M643.41,474.55A8.83,8.83,0,1,0,652.26,483.37A8.86,8.86,0,0,0,643.41,474.55z</Geometry>
+  <Geometry x:Key="iconGeometry9">F1 M1000,1000z M0,0z M714.08,474.55A8.83,8.83,0,1,0,722.9,483.38A8.83,8.83,0,0,0,714.08,474.55z</Geometry>
+  <Geometry x:Key="iconGeometry10">F1 M1000,1000z M0,0z M523.57,218.27L240.66,218.27C219.71,216.66,209.23,227.94,209.23,227.94L166.38,277.38A17.35,17.35,0,0,1,174.15,275.5L478,275.5A17.7,17.7,0,0,1,495.65,293.17L495.12,888.86C495.12,896.3,492.5,913.86,484.9,921.61L482.21,924.32 542.92,838.12C562.28,809.12,561.47,780.88,561.47,780.88L561.47,249.7C561.47,220.69,523.57,218.27,523.57,218.27z</Geometry>
+  <Geometry x:Key="iconGeometry11">F1 M1000,1000z M0,0z M495.11,886.68L495.64,293.17A17.7,17.7,0,0,0,478,275.5L174.15,275.5A17.4,17.4,0,0,0,166.38,277.38A17.64,17.64,0,0,0,156.49,293.17L156.49,777.62 495.64,777.62 495.64,894.2 156.49,894.2 156.49,907.87A17.68,17.68,0,0,0,174.15,925.52L478,925.52C480.25,925.52 482.61,923.97 484.9,921.62 492.5,913.89 495.12,894.17 495.12,886.68z M220.11,635.85A8.84,8.84,0,1,1,228.74,627.22A8.83,8.83,0,0,1,220.08,635.85z M290.77,635.85A8.84,8.84,0,1,1,299.4,627.22A8.85,8.85,0,0,1,290.74,635.85z M361.42,635.85A8.84,8.84,0,1,1,370.25,627A8.87,8.87,0,0,1,361.39,635.85z M432.07,635.85A8.84,8.84,0,1,1,440.7,627.22A8.85,8.85,0,0,1,432,635.85z M467.35,589A8.83,8.83,0,0,1,458.54,597.85L193.54,597.85A8.85,8.85,0,0,1,184.71,589L184.71,288.73A8.85,8.85,0,0,1,193.54,279.91L458.54,279.91A8.86,8.86,0,0,1,467.35,288.73L467.35,589z</Geometry>
+  <Geometry x:Key="iconGeometry12">F1 M1000,1000z M0,0z M156.49,777.62L495.09,777.62 495.09,894.2 156.49,894.2z</Geometry>
+  <Geometry x:Key="iconGeometry13">F1 M1000,1000z M0,0z M458.54,279.91L193.54,279.91A8.84,8.84,0,0,0,184.71,288.73L184.71,589A8.85,8.85,0,0,0,193.54,597.85L458.54,597.85A8.84,8.84,0,0,0,467.35,589L467.35,288.73A8.86,8.86,0,0,0,458.54,279.91z M440.67,560.78A8.84,8.84,0,0,1,431.84,569.6L220.27,569.6A8.82,8.82,0,0,1,211.45,560.78L211.45,530.78A8.84,8.84,0,0,1,220.27,521.93L431.84,521.93A8.84,8.84,0,0,1,440.67,530.78z M440.67,490.11A8.85,8.85,0,0,1,431.84,498.93L220.27,498.93A8.83,8.83,0,0,1,211.45,490.11L211.45,460.11A8.83,8.83,0,0,1,220.27,451.29L431.84,451.29A8.84,8.84,0,0,1,440.67,460.11z M440.67,419.44A8.83,8.83,0,0,1,431.84,428.27L220.27,428.27A8.82,8.82,0,0,1,211.45,419.44L211.45,389.44A8.82,8.82,0,0,1,220.27,380.64L431.84,380.64A8.83,8.83,0,0,1,440.67,389.44z M440.67,348.79A8.86,8.86,0,0,1,431.84,357.64L220.27,357.64A8.85,8.85,0,0,1,211.45,348.79L211.45,318.79A8.84,8.84,0,0,1,220.27,309.96L431.84,309.96A8.84,8.84,0,0,1,440.67,318.79z</Geometry>
+  <Geometry x:Key="iconGeometry14">F1 M1000,1000z M0,0z M431.84,309.94L220.27,309.94A8.84,8.84,0,0,0,211.45,318.77L211.45,348.77A8.85,8.85,0,0,0,220.27,357.62L431.84,357.62A8.86,8.86,0,0,0,440.67,348.77L440.67,318.77A8.85,8.85,0,0,0,431.84,309.94z M431.84,380.61L220.27,380.61A8.82,8.82,0,0,0,211.45,389.42L211.45,419.42A8.83,8.83,0,0,0,220.27,428.25L431.84,428.25A8.84,8.84,0,0,0,440.67,419.42L440.67,389.42A8.83,8.83,0,0,0,431.84,380.61z M431.84,451.26L220.27,451.26A8.82,8.82,0,0,0,211.45,460.08L211.45,490.08A8.84,8.84,0,0,0,220.27,498.9L431.84,498.9A8.84,8.84,0,0,0,440.67,490.08L440.67,460.08A8.84,8.84,0,0,0,431.84,451.26z M431.84,521.9L220.27,521.9A8.83,8.83,0,0,0,211.45,530.75L211.45,560.75A8.83,8.83,0,0,0,220.27,569.57L431.84,569.57A8.84,8.84,0,0,0,440.67,560.75L440.67,530.75A8.85,8.85,0,0,0,431.84,521.9z</Geometry>
+  <Geometry x:Key="iconGeometry15">F1 M1000,1000z M0,0z M220.08,618.18A8.84,8.84,0,1,0,228.71,626.81A8.83,8.83,0,0,0,220.08,618.18z</Geometry>
+  <Geometry x:Key="iconGeometry16">F1 M1000,1000z M0,0z M290.74,618.18A8.84,8.84,0,1,0,299.37,626.81A8.84,8.84,0,0,0,290.74,618.18z</Geometry>
+  <Geometry x:Key="iconGeometry17">F1 M1000,1000z M0,0z M361.39,618.18A8.84,8.84,0,1,0,370.22,627A8.86,8.86,0,0,0,361.39,618.18z</Geometry>
+  <Geometry x:Key="iconGeometry18">F1 M1000,1000z M0,0z M432,618.18A8.84,8.84,0,1,0,440.85,627.01A8.83,8.83,0,0,0,432,618.18z</Geometry>
+  <Geometry x:Key="iconGeometry19">F1 M1000,1000z M0,0z M479.88,904.55L479.88,917.93A20,20,0,0,0,500,938L834.68,938A20,20,0,0,0,854.76,917.91L854.76,904.55A20,20,0,0,1,834.68,924.63L500,924.63A20,20,0,0,1,479.88,904.55z</Geometry>
+  <Geometry x:Key="iconGeometry20">F1 M1000,1000z M0,0z M506.66,556.45L500,556.45C500,556.45,479.91,556.45,479.91,576.53L479.91,583.22 506.69,583.22z</Geometry>
+  <Geometry x:Key="iconGeometry21">F1 M1000,1000z M0,0z M613.77,556.45L587,556.45 587,583.22 613.78,583.22z</Geometry>
+  <Geometry x:Key="iconGeometry22">F1 M1000,1000z M0,0z M479.88,911.24L479.88,904.55 506.66,904.55 506.66,931.32 500,931.32C500,931.32,479.88,931.32,479.88,911.24z</Geometry>
+  <Geometry x:Key="iconGeometry23">F1 M1000,1000z M0,0z M667.32,556.45L640.55,556.45 640.55,583.22 667.32,583.22z</Geometry>
+  <Geometry x:Key="iconGeometry24">F1 M1000,1000z M0,0z M854.76,576.53C854.76,556.45,834.68,556.45,834.68,556.45L828,556.45 828,583.22 854.78,583.22z</Geometry>
+  <Geometry x:Key="iconGeometry25">F1 M1000,1000z M0,0z M854.76,911.24L854.76,904.55 828,904.55 828,931.32 834.7,931.32C834.7,931.32,854.76,931.32,854.76,911.24z</Geometry>
+  <Geometry x:Key="iconGeometry26">F1 M1000,1000z M0,0z M500,556.45A20,20,0,0,0,479.91,576.53L479.91,583.22A20,20,0,0,1,500,563.14L834.68,563.14A20,20,0,0,1,854.76,583.22L854.76,576.53A20,20,0,0,0,834.68,556.45z</Geometry>
+  <DrawingGroup x:Key="iconDrawingGroup" ClipGeometry="M0,0 V1000 H1000 V0 H0 Z">
+    <GeometryDrawing Brush="#FF848484" Geometry="{StaticResource iconGeometry1}" />
+    <GeometryDrawing Brush="#FF464646" Geometry="{StaticResource iconGeometry2}" />
+    <GeometryDrawing Brush="#FF686868" Geometry="{StaticResource iconGeometry3}" />
+    <GeometryDrawing Brush="#FF1E1D1D" Geometry="{StaticResource iconGeometry4}" />
+    <GeometryDrawing Brush="#FF7F7E7E" Geometry="{StaticResource iconGeometry5}" />
+    <GeometryDrawing Brush="#FFABB7B7" Geometry="{StaticResource iconGeometry6}" />
+    <GeometryDrawing Brush="#FF00B16A" Geometry="{StaticResource iconGeometry7}" />
+    <GeometryDrawing Brush="#FFF22613" Geometry="{StaticResource iconGeometry8}" />
+    <GeometryDrawing Brush="#FFE9D460" Geometry="{StaticResource iconGeometry9}" />
+    <GeometryDrawing Brush="#FF848484" Geometry="{StaticResource iconGeometry10}" />
+    <GeometryDrawing Brush="#FF464646" Geometry="{StaticResource iconGeometry11}" />
+    <GeometryDrawing Brush="#FF686868" Geometry="{StaticResource iconGeometry12}" />
+    <GeometryDrawing Brush="#FF1E1D1D" Geometry="{StaticResource iconGeometry13}" />
+    <GeometryDrawing Brush="#FF7F7E7E" Geometry="{StaticResource iconGeometry14}" />
+    <GeometryDrawing Brush="#FFABB7B7" Geometry="{StaticResource iconGeometry15}" />
+    <GeometryDrawing Brush="#FF00B16A" Geometry="{StaticResource iconGeometry16}" />
+    <GeometryDrawing Brush="#FFF22613" Geometry="{StaticResource iconGeometry17}" />
+    <GeometryDrawing Brush="#FFE9D460" Geometry="{StaticResource iconGeometry18}" />
+    <GeometryDrawing Geometry="{StaticResource iconGeometry19}">
+      <GeometryDrawing.Brush>
+        <SolidColorBrush Color="#FF000000" Opacity="0.2" />
+      </GeometryDrawing.Brush>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF9BCA6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C" Geometry="{StaticResource iconGeometry20}" />
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C" Geometry="{StaticResource iconGeometry21}" />
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49" Geometry="{StaticResource iconGeometry22}" />
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF9BCA6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C" Geometry="{StaticResource iconGeometry23}" />
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,663.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,583.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,636.78,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,610,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF56962C" Geometry="{StaticResource iconGeometry24}" />
+    <GeometryDrawing Brush="#FF60A036">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF72B248">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,556.45,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,850.99,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,690.33,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B" Geometry="{StaticResource iconGeometry25}" />
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,877.77,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,904.55,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,770.66,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,797.44,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,824.22,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="586.99,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="613.77,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="747.65,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="667.32,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="640.55,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="694.1,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="720.88,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="827.98,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="801.21,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="774.43,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF6B6B6B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF785439">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="560.21,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF583C28">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="533.44,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="506.66,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FF956B49">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,717.11,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Brush="#FFB8845B">
+      <GeometryDrawing.Geometry>
+        <RectangleGeometry RadiusX="0" RadiusY="0" Rect="479.88,743.88,26.78,26.78" />
+      </GeometryDrawing.Geometry>
+    </GeometryDrawing>
+    <GeometryDrawing Geometry="{StaticResource iconGeometry26}">
+      <GeometryDrawing.Brush>
+        <SolidColorBrush Color="#FFFFFFFF" Opacity="0.1" />
+      </GeometryDrawing.Brush>
+    </GeometryDrawing>
+  </DrawingGroup>
+  <DrawingImage x:Key="iconDrawingImage" Drawing="{StaticResource iconDrawingGroup}" />
+</ResourceDictionary>
